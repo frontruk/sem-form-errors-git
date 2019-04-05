@@ -1,0 +1,21 @@
+{
+  "name": "@frontr/ngformerrors",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/frontr-ngformerrors.umd.js",
+  "module": "fesm5/frontr-ngformerrors.js",
+  "es2015": "fesm2015/frontr-ngformerrors.js",
+  "esm5": "esm5/frontr-ngformerrors.js",
+  "esm2015": "esm2015/frontr-ngformerrors.js",
+  "fesm5": "fesm5/frontr-ngformerrors.js",
+  "fesm2015": "fesm2015/frontr-ngformerrors.js",
+  "typings": "frontr-ngformerrors.d.ts",
+  "metadata": "frontr-ngformerrors.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
